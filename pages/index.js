@@ -4,7 +4,7 @@ import Head from 'next/head'
 const index = () => {
   return <React.Fragment>
     <Head>
-      <title>Parametrics.ag</title>
+      <title>Startkit</title>
     </Head>
     <nav className="bg-gray-800">
 
