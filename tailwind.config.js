@@ -5,10 +5,14 @@ module.exports = {
     extend: {
       colors: {
         brand: {
-          DEFAULT: "#0D0D2B",
+          DEFAULT: "#FFFFFF",
           icon: "#3671E9",
-          button: "#3671E9"
+          button: "#3671E9",
+          white10: "#FFFFFF1A"
         }
+      },
+      height: {
+        xl: '60vh'
       }
     },
   },
